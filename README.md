@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-<a href='https://github.com/fecodebr/graduacao-time-line' target='_blank'>Time Line - Faculdade</a>
+<a href='https://github.com/felipe-ssantos/graduacao-time-line' target='_blank'>Time Line - Faculdade</a>
 </div>
 
 ---
@@ -23,12 +23,12 @@
   <h3>GitHub Status</h3>
   <br>
   <div>
-    <a href="https://github.com/fecodebr">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fecodebr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/felipe-ssantos">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-ssantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/fecodebr">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecodebr&layout=compact&langs_count=7&theme=dark"/>
+    <a href="https://github.com/felipe-ssantos">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-ssantos&layout=compact&langs_count=7&theme=dark"/>
     </a>
   </div>
   <br>
@@ -37,7 +37,7 @@
     <h3 align="center">Linguagens e assuntos que tenho estudado</h3>
     <!-- icons -->
     <div align="center">
-      <img align="center" alt="Cursando Inglês" height="40" width="50" src="https://github.com/fecodebr/link-tree/blob/main/image/eng_adobe_express.svg">
+      <img align="center" alt="Cursando Inglês" height="40" width="50" src="https://github.com/felipe-ssantos/link-tree/blob/main/image/eng_adobe_express.svg">
       <img align="center" alt="fecodebr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="fecodebr-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img align="center" alt="fecodebr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -54,11 +54,11 @@
 
 <div align="center">
   <h3>Contato</h3>
-  <a href="mailto:fecoder.dev@gmail.com">
+  <a href="mailto:felipesilveirasantos.contato@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/nfss17/" target="_blank">
+  <a href="https://www.linkedin.com/in/nfssantos/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
 </div>
