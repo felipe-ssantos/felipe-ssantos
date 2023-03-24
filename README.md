@@ -19,18 +19,7 @@
   <i>Disciplina é mais importante que motivação.</i>
   <br>
   <br>
-  <!-- git status-->
-  <h3>GitHub Status</h3>
-  <br>
-  <div>
-    <a href="https://github.com/felipe-ssantos">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-ssantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/felipe-ssantos">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-ssantos&layout=compact&langs_count=7&theme=dark"/>
-    </a>
-  </div>
+  <!-- GitStatus-->
   <br>
   <div style="display: inline_block">
     <br>
