@@ -34,7 +34,7 @@
   <br>
     <div>
       <center>
-        <img style="width: 450px; height: 350px;" align="center" alt="git-status" src="https://i.imgur.com/kDcNk1r.jpg">
+        <img style="width: 150px; height: 150px;" align="center" alt="git-status" src="https://i.imgur.com/AhqT5La.png">
       </center>
   </div>
   <div style="display: inline_block">
