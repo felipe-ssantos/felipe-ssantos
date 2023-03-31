@@ -12,7 +12,7 @@
   <br>
   <div>
     <center>
-      <img align="center" alt="front-back-explorer" src="https://i.imgur.com/Y5xkE0i.gif" autoplay>
+      <img align="center" alt="front-back-explorer" src="https://i.imgur.com/Y5xkE0i.gif">
     </center>
   </div>
   <br>
@@ -20,11 +20,28 @@
   <br>
   <br>
   <!-- GitStatus-->
+  <h3>GitHub Status</h3>
   <br>
+  <div>
+    <a href="https://github.com/felipe-ssantos">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-ssantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/felipe-ssantos">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-ssantos&layout=compact&langs_count=7&theme=dark"/>
+    </a>
+  </div>
+  <br>
+    <div>
+      <center>
+        <img style="width: 450px; height: 350px;" align="center" alt="git-status" src="https://i.imgur.com/kDcNk1r.jpg">
+      </center>
+  </div>
   <div style="display: inline_block">
     <br>
     <h3 align="center">Linguagens e assuntos que tenho estudado</h3>
     <!-- icons -->
+    <br>
     <div align="center">
       <img align="center" alt="Cursando Inglês" height="40" width="50" src="https://github.com/felipe-ssantos/link-tree/blob/main/image/eng_adobe_express.svg">
       <img align="center" alt="fecodebr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
