@@ -20,12 +20,8 @@
   <br>
   <br>
   <!-- GitStatus-->
-  <h3>GitHub Status</h3>
-  <br>
+  <h3>GitHub Status</h3>  
   <div>
-    <a href="https://github.com/felipe-ssantos">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-ssantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/felipe-ssantos">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-ssantos&layout=compact&langs_count=7&theme=dark"/>
