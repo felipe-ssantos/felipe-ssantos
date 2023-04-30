@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=fecodebr)
 
-#### Oi, pessoal! 👋 Meu nome é Felipe, sou aluno do curso (Sistemas para Internet) da Universidade Anhembi Morumbi. Amo desenvolvimento web e ser autodidata é um prazer. Eterno estudante de informática, também tenho como passatempo consertar e montar computadores, pois, tenho formação em eletrônica básica. Sempre, que possível, postarei meus projetos em desenvolvimento por aqui.
+#### Oi, pessoal! 👋 Meu nome é Felipe, sou aluno do curso (Sistemas para Internet) da Universidade Anhembi Morumbi. Amo desenvolvimento web e ser autodidata é um prazer. Sempre estudando tecnologia da informação, também tenho como passatempo consertar e montar computadores, pois, tenho formação como analista de suporte. Sempre, que possível, postarei meus projetos em desenvolvimento por aqui.
 
 ---
 <div align="center">
@@ -8,17 +8,7 @@
 </div>
 
 ---
-<div align="center">
-  <br>
-  <div>
-    <center>
-      <img align="center" alt="front-back-explorer" src="https://i.imgur.com/Y5xkE0i.gif">
-    </center>
-  </div>
-  <br>
-  <i>Disciplina é mais importante que motivação.</i>
-  <br>
-  <br>
+<div align="center">  
   <!-- GitStatus-->
   <h3>GitHub Status</h3>  
   <div>
