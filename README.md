@@ -1,13 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=fecodebr)
 
-#### Oi, pessoal! 👋 Meu nome é Felipe, sou aluno do curso (Sistemas para Internet) da Universidade Anhembi Morumbi. Amo desenvolvimento web e ser autodidata é um prazer. Sempre estudando tecnologia da informação, também tenho como passatempo consertar e montar computadores, pois, tenho formação como analista de suporte. Sempre, que possível, postarei meus projetos em desenvolvimento por aqui.
+#### 👋 Olá, pessoal! Meu nome é Felipe e sou aluno do curso de 🖥️ Sistemas para Internet da 🏫 Universidade Anhembi Morumbi. Amo 🌐 desenvolvimento web e ser autodidata é um prazer para mim. Estou sempre estudando 💻 tecnologia da informação. Além disso, gosto de 💻 consertar e montar computadores como passatempo, pois tenho formação como analista de suporte. Também sou um grande fã de jogos do tipo RPG 🎮, sendo a franquia Diablo da Blizzard a minha favorita, embora eu jogue todo tipo de RPG parecido haha. Sempre que possível, postarei meus projetos em desenvolvimento e cursos que participo por aqui. Muito sucesso e felicidade a todos!
 
 ---
+
 <div align="center">
 <a href='https://github.com/felipe-ssantos/graduacao-time-line' target='_blank'>Time Line - Faculdade</a>
 </div>
 
 ---
+
 <div align="center">  
   <!-- GitStatus-->
   <h3>GitHub Status</h3>  
@@ -17,6 +19,8 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-ssantos&layout=compact&langs_count=7&theme=dark"/>
     </a>
   </div>
+  <hr>
+  <p><i> "Um Jedi usa a Força para sabedoria e defesa, nunca para o ataque." - Yoda </i></p>
   <br>
     <div>
       <center>
