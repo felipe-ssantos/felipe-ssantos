@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-<a href='https://github.com/felipe-ssantos/graduacao-time-line' target='_blank'>Time Line - Faculdade</a>
-</div>
-
----
-
 <div align="center">  
   <!-- GitStatus-->
   <h3>GitHub Status</h3>  
