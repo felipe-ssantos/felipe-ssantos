@@ -1,6 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=fecodebr)
 
-#### 👋 Olá, pessoal! Meu nome é Felipe e sou um estudante do curso de Sistemas para Internet da Universidade Anhembi Morumbi. Sou apaixonado por desenvolvimento web e adoro aprender por conta própria. Estou constantemente me atualizando na área de tecnologia da informação. Além disso, tenho habilidades em consertar e montar computadores como um hobby, já que tenho formação como analista de suporte. Também sou um grande fã de jogos do gênero RPG 🎮, e a franquia Diablo da Blizzard é a minha favorita, embora eu goste de jogar todos os tipos de RPG haha. Sempre que possível, vou compartilhar meus projetos em andamento e os cursos dos quais participo aqui. Desejo muito sucesso e felicidade a todos!
+<div>
+<p><strong>👋 Olá, pessoal! Meu nome é Felipe e sou um estudante do curso de Sistemas para Internet da Universidade Anhembi Morumbi. Sou apaixonado por desenvolvimento web e adoro aprender por conta própria. Estou constantemente me atualizando na área de tecnologia da informação. Além disso, tenho habilidades em consertar e montar computadores como um hobby, já que tenho formação como analista de suporte. Também sou um grande fã de jogos do gênero RPG 🎮, e a franquia Diablo da Blizzard é a minha favorita, embora eu goste de jogar todos os tipos de RPG haha. Sempre que possível, vou compartilhar meus projetos em andamento e os cursos dos quais participo aqui. Desejo muito sucesso e felicidade a todos!
+</strong>
+</p>
+</div>
 
 ---
 
