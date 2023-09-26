@@ -10,7 +10,7 @@
 
 <div align="center">  
   <!-- GitStatus-->
-  <h3>GitHub Status</h3>  
+  <h3>Git Status</h3>  
   <div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/felipe-ssantos">
