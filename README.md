@@ -16,7 +16,7 @@
     </a>
   </div>
   <hr>
-  <p><i> "Um Jedi usa a Força para sabedoria e defesa, nunca para o ataque." - Yoda </i></p>
+  <p><i> "Não tenha pena dos mortos. Tenha pena dos vivos, e acima de tudo, daqueles que vivem sem amor." - Alvo Dumbledore </i></p>
   <br>
     <div>
       <center>
