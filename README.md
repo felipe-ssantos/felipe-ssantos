@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## **📌 GitHub Stats**
-<div align="center">  
+<div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-ssantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -28,7 +28,7 @@
 🎯 Objetivo: Aprofundar em **arquitetura front-end** e **otimização de performance**.
 
 ## **📫 Como me encontrar**
-<div align="center">
+<div>
   <a href="mailto:fecoder.dev@gmail.com" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -44,10 +44,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipe-ssantos&theme=dracula&row=1" alt="felipe-ssantos" />
-</div>
 
 ---
 
