@@ -23,7 +23,7 @@
 ## **📚 Aprendizado Contínuo**
 🎓 Participo ativamente de bootcamps e programas intensivos para aprimorar minhas habilidades. 
 
-💡 Atualmente estudando **Next.js** e continuamente minha stack front-end.
+💡 Atualmente estudando **SQL** e continuamente minha stack front-end.
 
 🎯 Objetivo: Aprofundar em **arquitetura front-end** e **otimização de performance**.
 
