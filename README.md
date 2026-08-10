@@ -1,5 +1,3 @@
-# Felipe Santos
-
 **Front-end Developer — React & TypeScript Enthusiast**
 ---
 
