@@ -19,6 +19,8 @@
 ![Stats](https://github-stats-extended.vercel.app/api?username=felipe-ssantos&show_icons=true&theme=dracula&count_private=true&hide_border=true)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=felipe-ssantos&layout=compact&langs_count=7&theme=dracula&hide_border=true)
 
+![Grade](./profile-summary-card-output/grade.svg)
+
 ![snake eating contribution graph](https://raw.githubusercontent.com/felipe-ssantos/felipe-ssantos/output/github-contribution-grid-snake.svg)
 
 ---
