@@ -1,11 +1,6 @@
 # Felipe Santos
 
-**Front-end Developer — React & TypeScript**
-
-Analista de suporte com 7+ anos de experiência em atendimento, suporte técnico e operações, em transição para desenvolvimento front-end. Formado em Sistemas para Internet (Anhembi Morumbi, 2024), com foco atual em React, TypeScript e arquitetura de aplicações web.
-
-[Portfólio](https://nfelipe-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fnss/) · [E-mail](mailto:fecoder.dev@gmail.com)
-
+**Front-end Developer — React & TypeScript Enthusiast**
 ---
 
 ## Stack
@@ -25,8 +20,6 @@ Analista de suporte com 7+ anos de experiência em atendimento, suporte técnico
 
 ![Stats](https://github-stats-extended.vercel.app/api?username=felipe-ssantos&show_icons=true&theme=dracula&count_private=true&hide_border=true)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=felipe-ssantos&layout=compact&langs_count=7&theme=dracula&hide_border=true)
-
-![Grade](./profile-summary-cards-output/grade.svg)
 
 ![snake eating contribution graph](https://raw.githubusercontent.com/felipe-ssantos/felipe-ssantos/output/github-contribution-grid-snake.svg)
 
