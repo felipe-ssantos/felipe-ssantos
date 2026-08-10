@@ -28,8 +28,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/felipe-ssantos/felipe-ssantos/output/github-contribution-grid-snake.svg" alt="snake eating contribution graph" />
 </div>
